@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Assignment10</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="home_title">Home</string>
+    <string name="about_us_title">About Us</string>
+    <string name="admissions_title">Admissions</string>
+    <string name="academics_title">Academics</string>
+    <string name="departments_title">Departments</string>
+    <string name="placements_title">Placements</string>
+    <string name="nirf_title">NIRF</string>
+
+    <string name="home_description">Welcome to Bonam Venkata Chalamayya Engineering College.</string>
+    <string name="about_us_description"><![CDATA[Our vision is to become a leading technical institute of
+        academic excellence by imparting high patterns of discipline through innovative
+        programmes of global standards making our students technologically superior and
+        ethically strong to serve the nation.<br/><br/>
+        And our mission is to create an environment that shall foster the growth of intellectually
+        capable,innovative professionals who can contribute to the to the growth of technology in
+        partnership with industry and develop and harness it for the welfare of the nation and
+        mankind.]]></string>
+
+    <string name="admissions_desc" formatted="true" translatable="true">
+        <![CDATA[
+        <p><h2>Allotments of Seats-B.Tech</h2></p>
+            <p>The seats to be allotted in our institutions under the rules for Admissions are classified as :</p>
+            <p>The Category A seats shall be 70% of sanctioned intake of seats in which course which shall be filled with eligible candidates on the basis of rank obtained at EAMCET /JEE.</p>
+        ]]>
+    </string>
+
+    <string name="academics_des">
+        A library is the heart of an academic institution. Our institution encourages all students and
+        staff members to make the best use of the library that has been carefully built up since the
+        inception of the college. The library is housed in a spacious area of 1200 sq.m., The library
+        is fully air-conditioned with internet connection for accessing e-journals and other sites of
+        interest. The library is fully automated with Bees Campus Soft library management software system.
+        Presently there are more than 36,000 books and 6500 reference volumes stacked for the benefit of
+        staff and students. There is an established media resource centre. Our library follows the open
+        access system and is encouraging students to browse in the stack area. The library subscribes
+        more than 100 printed journals (both subject and general) and subscribed 3500 e-journals under
+        AICTE mandatory (IEEE, Elsevier (Sciencedirect), Wiley, ASCE, Springer, J-Gate, Mc Graw-Hill and
+        ASTM). We are also a member of Delnet.
+    </string>
+    <string name="departments_desc">
+        <![CDATA[<p><h2>Departments</h2></p><p>&#8226;CSE<br />&#8226;ME<br />&#8226;EEE<br />&#8226;ECE<br />&#8226;CE</p>]]>
+    </string>
+
+    <string name="nirf_desc">
+
+    </string>
+
+    <string name="placement_desc">
+        “Education for Excellence….Our MOTTO 100% Placements for all eligible candidates”
+
+        BVC Institutions specially focus on Training and Placement for having a secured future .
+        In this aspect full time faculty to teach aptitude and Soft skills are being engaged
+        along with regular curriculum.BVC is specially recognized by AICTE for training students
+        in competitive examinations like GATE ,GRE,and TOEFL. Our regular recruiters are WIPRO ,
+        SINGULARITY , SYNTEL, TREWPORT,HCL tech,BAYDATACOM,SRIRAM GROUP,ASHoK LEYLAND etc..
+    </string>
+</resources>
